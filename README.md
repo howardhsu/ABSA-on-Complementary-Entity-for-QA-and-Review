@@ -1,10 +1,8 @@
 # Complementary-Entity-Recognition
 I work on Complementary Entity Recognition (CER) in the context of products, which is to identify products that can potentially work together. 
 
-Publication:
-CER: Complementary Entity Recognition via Knowledge Expansion on Large Unlabeled Product Reviews
-IEEE International Conference on Big Data 2016 (IEEE Bigdata 2016)
-Hu Xu, Sihong Xie, Lei Shu, Philip S. Yu
+
+Hu Xu, Sihong Xie, Lei Shu, Philip S. Yu, CER: Complementary Entity Recognition via Knowledge Expansion on Large Unlabeled Product Reviews, IEEE International Conference on Big Data 2016 (IEEE Bigdata 2016)
 https://arxiv.org/pdf/1612.01039v1.pdf
 
 Here is the dataset used in my paper: 
