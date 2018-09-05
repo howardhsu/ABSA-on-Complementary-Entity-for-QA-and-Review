@@ -2,7 +2,7 @@
 I work on Complementary Entity Recognition (CER) in the context of products reviews and QAs, which is to identify entities that can potentially work together. 
 It's like aspect extraction and complementary entity is a special kind of aspect in the area of Aspect-Based Sentiment Analysis (ABSA), which is largely ignored in existing research!
 
-Similar to aspect-based sentiment classification, we have a problem called Product Compatibility Analysis that further requires to classify whether the complementary entity is compatible or not. 
+Similar to aspect-based sentiment classification, we have a problem called Product Compatibility Analysis that further requires to classify whether the complementary entity is compatible or not. Applications domains can be found in electronics (lots of accessories) and tools (in Homedepot)
 
 Product QA datasets are ideal datasets for such task, where such kinds of "aspect" may appear in the question and the compatibility info is in the answer. 
 
