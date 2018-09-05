@@ -8,7 +8,6 @@ Product QA datasets are ideal datasets for such task, where such kinds of "aspec
 
 Here is the dataset used in my papers: 
 https://www.cs.uic.edu/~hxu/QA_dataset.html
-
 https://www.cs.uic.edu/~hxu/CER_dataset.html
 
 
