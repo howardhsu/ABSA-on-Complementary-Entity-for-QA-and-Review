@@ -1,4 +1,4 @@
-# Complementary-Entity-Recognition
+# Complementary-Entity-Recognition and Product Compatibility Analysis on QAs and Reviews
 I work on Complementary Entity Recognition (CER) in the context of products reviews and QAs, which is to identify entities that can potentially work together. 
 It's like aspect extraction and complementary entity is a special kind of aspect in the area of Aspect-Based Sentiment Analysis (ABSA), which is largely ignored in existing research!
 
